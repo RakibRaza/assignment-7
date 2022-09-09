@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "name": "Pendrive",
+      "amount": 500,
+      "type": "expense",
+      "id": 3
+    },
+    {
+      "name": "Salary",
+      "type": "income",
+      "amount": 20000,
+      "id": 4
+    },
+    {
+      "name": "upori income",
+      "type": "income",
+      "amount": 20000,
+      "id": 5
+    },
+    {
+      "name": "nice incom",
+      "type": "income",
+      "amount": 500,
+      "id": 6
+    },
+    {
+      "name": "pc",
+      "type": "expense",
+      "amount": 10000,
+      "id": 7
+    },
+    {
+      "name": "monitor",
+      "type": "expense",
+      "amount": 20000,
+      "id": 8
+    },
+    {
+      "name": "laptop",
+      "type": "expense",
+      "amount": 50000,
+      "id": 9
+    },
+    {
+      "name": "bonus",
+      "type": "income",
+      "amount": 50000,
+      "id": 10
+    }
+  ]
+}
