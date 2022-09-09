@@ -1,7 +1,7 @@
 const { createSlice } = require("@reduxjs/toolkit");
 
 const initialState = {
-  tags: [],
+  type: "All",
   search: "",
   author: "",
   pageNumber: 1

@@ -8,7 +8,7 @@ const Home = () => {
     <>
       <Balance />
       <Form />
-      <Transactions limit={5} />
+      <Transactions filter={false} />
       <Link to="/transaction-details" className="btn">View All</Link>
     </>
   )

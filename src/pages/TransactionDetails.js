@@ -39,7 +39,7 @@ const TransactionDetails = () => {
           <label>Expense</label>
         </div>
       </div>
-      <Transactions />
+      <Transactions filter={true} />
     </>
   )
 }
